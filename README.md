@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilesme
 - 👀 I’m interested in iOS Development. I love working in Xcode developing with Swift.
-- 💞️ I’m looking to collaborate on Swift/Xcode Projects in iOS whether that is front-end or back-end services.
+- 💞️ I’m looking to collaborate on Swift/Xcode Projects in iOS.
 - 📫 How to reach me ... email: meganliles426@gmail.com
 
 <!---
